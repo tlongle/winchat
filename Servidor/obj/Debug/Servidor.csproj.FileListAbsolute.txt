@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\WinSocket\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Alex\source\repos\WinSocket\Servidor\bin\Debug\Servidor.exe
+C:\Users\Alex\source\repos\WinSocket\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Alex\source\repos\WinSocket\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\WinSocket\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\WinSocket\Servidor\obj\Debug\Servidor.frmServidor.resources
+C:\Users\Alex\source\repos\WinSocket\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\Alex\source\repos\WinSocket\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\WinSocket\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\WinSocket\Servidor\obj\Debug\Servidor.exe
+C:\Users\Alex\source\repos\WinSocket\Servidor\obj\Debug\Servidor.pdb

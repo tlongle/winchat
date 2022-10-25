@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\WinSocket\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Alex\source\repos\WinSocket\Cliente\bin\Debug\Cliente.exe
+C:\Users\Alex\source\repos\WinSocket\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Alex\source\repos\WinSocket\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\WinSocket\Cliente\obj\Debug\Cliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\WinSocket\Cliente\obj\Debug\Cliente.frmCliente.resources
+C:\Users\Alex\source\repos\WinSocket\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Alex\source\repos\WinSocket\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\WinSocket\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\WinSocket\Cliente\obj\Debug\Cliente.exe
+C:\Users\Alex\source\repos\WinSocket\Cliente\obj\Debug\Cliente.pdb
